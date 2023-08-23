@@ -26,5 +26,4 @@ function emailValidation() {
     });
 };
 
-
 window.onload = emailValidation;
